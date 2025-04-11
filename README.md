@@ -9,11 +9,8 @@ The dataset is organized into three main device categories:
 - `Nanosheet/`: Nanosheet FET data
 - `CFET/`: Complementary FET data
 
-Each device folder contains multiple subdirectories, where each subdirectory represents a specific device from a published paper. The naming convention follows the pattern `[PaperID]_[DeviceID]`.
+Each device folder contains multiple subdirectories, where each subdirectory represents a specific device from a published paper. The naming convention follows the pattern `[PaperID]_[FigureID]`.
 
-## Data File Naming Convention
-
-The dataset is in `MESD` folder. The data is recorded with JSON files. Each JSON file corresponds to a device in a PDK. The files are named as `PDK Name`-`Device Name`. MESD includes data from 11 PDKs and 44 types of devices from 350 nm to 3 nm. The PDKs and devices are renamed to avoid leakage of foundry information. 
 
 | Structure | of Devices |
 |-----------|--------------------------|
