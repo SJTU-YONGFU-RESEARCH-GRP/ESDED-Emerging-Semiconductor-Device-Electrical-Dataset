@@ -1,0 +1,6 @@
+INFO:__main__:数据已保存到 ./uploaded/data_extract/6823112_22A/calibrated_data.xlsx
+INFO:__main__:Finish figure process and coordinates calibration
+INFO:__main__:JSON 文件已生成！
+INFO:__main__:UPDATE transistor SET RESULTNAME = './uploaded/data_extract/6823112_22A/output.json', RESULTFIGURE = './uploaded/data_extract/6823112_22A/result.png', status = 'Success' WHERE ID = '6823112_22A'
+INFO:__main__:database updated
+INFO:__main__:Excel file generated at: ./uploaded/data_extract/6823112_22A/input.xlsx

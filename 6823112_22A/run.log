@@ -1,0 +1,10 @@
+INFO - 数据已保存到 ./uploaded/data_extract/6823112_22A/calibrated_data.xlsx
+INFO - Finish figure process and coordinates calibration
+INFO - JSON 文件已生成！
+INFO - UPDATE transistor SET RESULTNAME = './uploaded/data_extract/6823112_22A/output.json', RESULTFIGURE = './uploaded/data_extract/6823112_22A/result.png', status = 'Success' WHERE ID = '6823112_22A'
+INFO - database updated
+INFO - Excel file generated at: ./uploaded/data_extract/6823112_22A/input.xlsx
+Namespace(ID='6823112_22A', figure='./uploaded/data_extract/6823112_22A/22A.png', OUTPUT='./uploaded/data_extract/6823112_22A', HSV=None, highX='0.8', lowX='-0.8', highY='10**-3', lowY='10**-8', svalue='800', step='10', dualCurve='29', dualLine='0', Type='Both', Node='11.9', Device='GAA', Vds='0.68', L='10.0', W='10.0', Info='Type', Record=['square-NW GAA MOSFETs'], Color=[0])
+已选择单线模式。
+database connected
+database connected
