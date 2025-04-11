@@ -11,42 +11,46 @@ The dataset is organized into three main device categories:
 
 Each device folder contains multiple subdirectories, where each subdirectory represents a specific device from a published paper. The naming convention follows the pattern `[PaperID]_[DeviceID]`.
 
-## Data File Structure
+## Data File Naming Convention
 
-Each device directory contains:
-1. A JSON file (`[DeviceID].json`) containing the electrical characteristics data
-2. Visualization files (PNG format) showing the device characteristics
+The dataset is in `MESD` folder. The data is recorded with JSON files. Each JSON file corresponds to a device in a PDK. The files are named as `PDK Name`-`Device Name`. MESD includes data from 11 PDKs and 44 types of devices from 350 nm to 3 nm. The PDKs and devices are renamed to avoid leakage of foundry information. 
 
-### JSON Data Format
+| Technology | PDK Name | # of Devices (NMOS) | # of Devices (PMOS) |
+|------------|----------|-------------------------|--------------------------|
+| 3 nm       | N3A      | 1                       | 1                        |
+| 7 nm       | N7A      | 3                       | 3                        |
+| 15 nm      | N15A     | 1                       | 1                        |
+| 40 nm      | N40A     | 3                       | 3                        |
+| 45 nm      | N45A     | 1                       | 1                        |
+| 45 nm      | N45B     | 3                       | 3                        |
+| 55 nm      | N55A     | 3                       | 3                        |
+| 90 nm      | N90A     | 3                       | 3                        |
+| 180 nm     | N180A    | 1                       | 1                        |
+| 180 nm     | N180B    | 2                       | 2                        |
+| 350 nm     | N350A    | 1                       | 1                        |
 
-The JSON files contain the following information:
-```json
-{
-    "Type": "Device type (e.g., Negative)",
-    "Node": "Technology node",
-    "Device": "Device type (e.g., GAA)",
-    "Vds": "Drain-source voltage",
-    "L": "Channel length (nm)",
-    "W": "Channel width (nm)",
-    "Paper Name": "Title of the source paper",
-    "Paper Link": "Link to the paper",
-    "Records": [
-        {
-            "Vds": "Drain-source voltage (V)",
-            "Vgs": ["List of gate-source voltages (V)"],
-            "Ids": ["List of drain currents (A)"]
-        }
-    ]
-}
-```
+## Data Structure
 
-## Data Collection
+Each file includes metadata such as PDK name, device name, simulator, and model. The `Record` section is a list, in which each entry includes the `Vgs` and the corresponding `Ids` and `Cgg` under different dimensions (i.e., `W`, `L`, and `Nfin`), simulation conditions (i.e., `Temp` and `Corner`), and voltage bias (`Vds`).
 
-The dataset is compiled from published research papers, with each entry including:
-- Device electrical characteristics (I-V curves)
-- Device physical parameters (dimensions)
-- Source paper information
-- Visualization of the characteristics
+| Name       | Description                                | Type             |
+|------------|--------------------------------------------|------------------|
+| PDK        | Name of Process Design Kit                 | String           |
+| Node       | Technology node in nanometers              | Integer          |
+| Device     | Name of MOSFET device                      | String           |
+| Type       | Type of MOSFET (NMOS/PMOS)                 | String           |
+| Simulator  | Simulator adopted to collect data          | String           |
+| Model      | Name of compact model to collect data      | String           |
+| Corner     | Process corner                             | String           |
+| Temp       | The temperature in degrees Celsius         | Integer          |
+| W          | Width of the MOSFET in nanometers          | Integer          |
+| L          | Length of the MOSFET in nanometers         | Integer          |
+| Nfin       | Number of fins (for FinFET only)           | Integer          |
+| Vds        | Drain-source voltage in volts              | Float            |
+| Vgs        | Gate-source voltage in volts               | List of float    |
+| Ids        | Drain current measured in amperes          | List of float    |
+| Cgg        | Gate capacitance in farads                 | List of float    |
+
 
 ## Usage
 
