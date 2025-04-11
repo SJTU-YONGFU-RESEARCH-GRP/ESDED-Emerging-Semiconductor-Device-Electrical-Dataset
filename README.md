@@ -16,7 +16,7 @@ Each device folder contains multiple subdirectories, where each subdirectory rep
 The dataset is in `MESD` folder. The data is recorded with JSON files. Each JSON file corresponds to a device in a PDK. The files are named as `PDK Name`-`Device Name`. MESD includes data from 11 PDKs and 44 types of devices from 350 nm to 3 nm. The PDKs and devices are renamed to avoid leakage of foundry information. 
 
 | Structure |  GAA | Nanosheet| CFET|
-|-----------|--------------------------|
+|-----------|-------|----------|---------|
 |of Devices|     70   |     51     |   12   |
 
 ## Data Structure
