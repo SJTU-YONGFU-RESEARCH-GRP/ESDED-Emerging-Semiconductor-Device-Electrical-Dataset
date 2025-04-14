@@ -5,8 +5,8 @@
     "Vds": "1.0",
     "L": "nan",
     "W": "13.0",
-    "Paper Name": "In-situ doped and tensily stained ge junctionless gate-all-around nFETs on SOI featuring Ion = 828 \u00b5A/\u00b5m, Ion/Ioff ? 1\u00d7105, DIBL= 16\u201354 mV/V, and 1.4X external strain enhancement",
-    "Paper Link": "https://ieeexplore.ieee.org/document/7047019",
+    "Title": "In-situ doped and tensily stained ge junctionless gate-all-around nFETs on SOI featuring Ion = 828 \u00b5A/\u00b5m, Ion/Ioff ? 1\u00d7105, DIBL= 16\u201354 mV/V, and 1.4X external strain enhancement",
+    "DOI": "https://ieeexplore.ieee.org/document/7047019",
     "Records": [
         {
             "Type": "JL-Ge nGAAFET",

@@ -5,8 +5,8 @@
     "Vds": "nan",
     "L": "80.0",
     "W": "35.0",
-    "Paper Name": "Highly Stacked 8 Ge0.9Sn0.1 Nanosheet pFETs with Ultrathin Bodies (~3nm) and Thick Bodies (~30nm) Featuring the Respective Record ION/IOFF of 1.4x107 and Record ION of 92?A at VOV=VDS= -0.5V by CVD Epitaxy and Dry Etching",
-    "Paper Link": "https://ieeexplore.ieee.org/document/9372041",
+    "Title": "Highly Stacked 8 Ge0.9Sn0.1 Nanosheet pFETs with Ultrathin Bodies (~3nm) and Thick Bodies (~30nm) Featuring the Respective Record ION/IOFF of 1.4x107 and Record ION of 92?A at VOV=VDS= -0.5V by CVD Epitaxy and Dry Etching",
+    "DOI": "https://ieeexplore.ieee.org/document/9372041",
     "Records": [
         {
             "Vds": "-0.5",
