@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "45.0",
-    "Device": "GAA",
-    "Vds": "1.0",
-    "L": "20.0",
-    "W": "nan",
+    "Node": 45.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 1.0,
+    "L": 20.0,
+    "W": 0.0,
     "Title": "Impact of Equivalent Oxide Thickness on Threshold Voltage Variation Induced by Work-Function Variation in Multigate Devices",
     "DOI": "https://ieeexplore.ieee.org/document/7879203",
     "Records": [

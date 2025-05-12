@@ -1,10 +1,12 @@
 {
     "Type": "Positive",
-    "Node": "10.0",
-    "Device": "GAA",
-    "Vds": "-1.0",
-    "L": "90.0",
-    "W": "20.0",
+    "Node": 10.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": -1.0,
+    "L": 90.0,
+    "W": 20.0,
     "Title": "Diamond-shaped Ge and Ge0.9Si0.1 Gate-All-Around Nanowire FETs with Four {111} Facets by Dry Etch Technology",
     "DOI": "https://ieeexplore.ieee.org/document/7409701",
     "Records": [

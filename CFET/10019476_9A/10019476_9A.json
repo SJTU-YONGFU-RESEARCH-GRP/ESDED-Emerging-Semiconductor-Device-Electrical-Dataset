@@ -1,10 +1,12 @@
 {
     "Type": "Positive",
-    "Node": "nan",
-    "Device": "CFET",
-    "Vds": "nan",
-    "L": "450.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "CFET"
+    ],
+    "Vds": 0.0,
+    "L": 450.0,
+    "W": 0.0,
     "Title": "Top-Gate CVD WSe2 pFETs with Record-High Id~594?A/?m, Gm~244 ?S/?m and WSe2/MoS2 CFET based Half-adder Circuit Using Monolithic 3D Integration",
     "DOI": "https://ieeexplore.ieee.org/document/10019476",
     "Records": [

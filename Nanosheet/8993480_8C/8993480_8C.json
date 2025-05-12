@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "5.0",
-    "Device": "Nanosheet",
-    "Vds": "0.05",
-    "L": "nan",
-    "W": "nan",
+    "Node": 5.0,
+    "Device": [
+        "Nanosheet"
+    ],
+    "Vds": 0.05,
+    "L": 0.0,
+    "W": 0.0,
     "Title": "Multiple-Vt Solutions in Nanosheet Technology for High Performance and Low Power Applications",
     "DOI": "https://ieeexplore.ieee.org/document/8993480",
     "Records": [

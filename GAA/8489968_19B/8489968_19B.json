@@ -1,10 +1,12 @@
 {
     "Type": "Positive",
-    "Node": "14.0",
-    "Device": "GAA",
-    "Vds": "nan",
-    "L": "45.0",
-    "W": "nan",
+    "Node": 14.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.0,
+    "L": 45.0,
+    "W": 0.0,
     "Title": "First Demonstration of Vertically Stacked Gate-All-Around Highly Strained Germanium Nanowire pFETs",
     "DOI": "https://ieeexplore.ieee.org/document/8489968",
     "Records": [

@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "0.6",
-    "L": "nan",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.6,
+    "L": 0.0,
+    "W": 0.0,
     "Title": "A Surface-Field-Based Model for Nanowire MOSFETs With Spatial Variations of Doping Pro?les",
     "DOI": "https://ieeexplore.ieee.org/document/6953224",
     "Records": [

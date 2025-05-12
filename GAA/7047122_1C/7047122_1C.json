@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "0.05",
-    "L": "nan",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.05,
+    "L": 0.0,
+    "W": 0.0,
     "Title": "Flexible High-performance Nonvolatile Memory by Transferring GAA Silicon Nanowire SONOS onto a Plastic Substrate",
     "DOI": "https://ieeexplore.ieee.org/document/7047122",
     "Records": [

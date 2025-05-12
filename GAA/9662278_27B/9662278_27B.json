@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "5.0",
-    "Device": "GAA",
-    "Vds": "0.05",
-    "L": "50.0",
-    "W": "10.0",
+    "Node": 5.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.05,
+    "L": 50.0,
+    "W": 10.0,
     "Title": "Subthreshold Modeling of GAA MOSFET Including the Effect of Process-Induced Inclined Sidewalls",
     "DOI": "https://ieeexplore.ieee.org/abstract/document/9662278",
     "Records": [

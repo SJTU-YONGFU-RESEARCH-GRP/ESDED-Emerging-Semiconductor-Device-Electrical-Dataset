@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "CFET",
-    "Vds": "1.0",
-    "L": "nan",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "CFET"
+    ],
+    "Vds": 1.0,
+    "L": 0.0,
+    "W": 0.0,
     "Title": "Monolithic 3D Integration of Vertically Stacked CMOS Devices and Circuits with High-Mobility Atomic-Layer-Deposited In2O3 n-FET and Polycrystalline Si p-FET: Achieving Large Noise Margin and High Voltage Gain of 134 V/V",
     "DOI": "https://ieeexplore.ieee.org/document/10019410",
     "Records": [

@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "7.0",
-    "Device": "GAA",
-    "Vds": "1.0",
-    "L": "nan",
-    "W": "nan",
+    "Node": 7.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 1.0,
+    "L": 0.0,
+    "W": 0.0,
     "Title": "Impact of Process-Induced Inclined Sidewalls on Gate-Induced Drain Leakage (GIDL) Current of Nanowire GAA MOSFETs",
     "DOI": "https://ieeexplore.ieee.org/document/9848422",
     "Records": [

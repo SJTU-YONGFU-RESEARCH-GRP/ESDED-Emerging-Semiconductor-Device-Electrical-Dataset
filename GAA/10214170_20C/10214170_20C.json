@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "10.0",
-    "L": "3000.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 10.0,
+    "L": 3000.0,
+    "W": 0.0,
     "Title": "Fabrication of the SiC Gate-All-Around JFET",
     "DOI": "https://ieeexplore.ieee.org/document/10214170",
     "Records": [

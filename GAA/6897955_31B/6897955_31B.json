@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "0.1",
-    "L": "300.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.1,
+    "L": 300.0,
+    "W": 0.0,
     "Title": "High-Performance GAA Sidewall-Damascened Sub-10-nm In Situ n+-Doped Poly-Si NWs Channels Junctionless FETs",
     "DOI": "https://ieeexplore.ieee.org/document/6897955",
     "Records": [

@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "2.5",
-    "L": "130.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 2.5,
+    "L": 130.0,
+    "W": 0.0,
     "Title": "Leakage Current and Hot-Carrier Injection in the Junctionless Nanowire FETs Enhanced by Tensile Mechanical Stress",
     "DOI": "https://ieeexplore.ieee.org/document/10546966",
     "Records": [

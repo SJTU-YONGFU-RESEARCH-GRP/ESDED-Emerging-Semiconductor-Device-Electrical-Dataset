@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "0.1",
-    "L": "240.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.1,
+    "L": 240.0,
+    "W": 0.0,
     "Title": "Implantation Free GAA Double Spacer Poly-Si Nanowires Channel Junctionless FETs with Sub-1V Gate Operation and Near Ideal Subthreshold Swing",
     "DOI": "https://ieeexplore.ieee.org/document/7409639",
     "Records": [

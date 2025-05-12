@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "14.0",
-    "Device": "GAA",
-    "Vds": "0.1",
-    "L": "300.0",
-    "W": "nan",
+    "Node": 14.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.1,
+    "L": 300.0,
+    "W": 0.0,
     "Title": "Junctionless Poly-Si Nanowire Transistors With Low-Temperature Trimming Process for Monolithic 3-D IC Application",
     "DOI": "https://ieeexplore.ieee.org/document/7676340",
     "Records": [

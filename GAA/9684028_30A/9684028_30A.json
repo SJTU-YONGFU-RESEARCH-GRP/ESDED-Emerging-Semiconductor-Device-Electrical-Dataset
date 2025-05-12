@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "3.0",
-    "Device": "GAA",
-    "Vds": "0.7",
-    "L": "10.0",
-    "W": "nan",
+    "Node": 3.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.7,
+    "L": 10.0,
+    "W": 0.0,
     "Title": "Investigation of Self-Heating Effects in Vertically Stacked GAA MOSFET With Wrap-Around Contact",
     "DOI": "https://ieeexplore.ieee.org/document/9684028",
     "Records": [

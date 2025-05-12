@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "0.1",
-    "L": "1000.0",
-    "W": "5.0",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.1,
+    "L": 1000.0,
+    "W": 5.0,
     "Title": "First Demonstration of a Wrap-Gated CNT-FET with Vertically-Suspended Channels",
     "DOI": "https://ieeexplore.ieee.org/document/7838351",
     "Records": [

@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "5.0",
-    "Device": "Nanosheet",
-    "Vds": "0.5",
-    "L": "10.0",
-    "W": "nan",
+    "Node": 5.0,
+    "Device": [
+        "Nanosheet"
+    ],
+    "Vds": 0.5,
+    "L": 10.0,
+    "W": 0.0,
     "Title": "Design Considerations for Si- and Ge-Stacked Nanosheet pMOSFETs Based on Quantum Transport Simulations",
     "DOI": "https://ieeexplore.ieee.org/document/8933361",
     "Records": [

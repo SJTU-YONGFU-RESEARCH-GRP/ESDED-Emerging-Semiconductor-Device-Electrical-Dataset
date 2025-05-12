@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "5.0",
-    "Device": "Nanosheet",
-    "Vds": "0.65",
-    "L": "11.5",
-    "W": "nan",
+    "Node": 5.0,
+    "Device": [
+        "Nanosheet"
+    ],
+    "Vds": 0.65,
+    "L": 11.5,
+    "W": 0.0,
     "Title": "Design and Optimization of Triple-k Spacer Structure in Two-Stack Nanosheet FET From OFF-State Leakage Perspective",
     "DOI": "https://ieeexplore.ieee.org/document/8998213",
     "Records": [

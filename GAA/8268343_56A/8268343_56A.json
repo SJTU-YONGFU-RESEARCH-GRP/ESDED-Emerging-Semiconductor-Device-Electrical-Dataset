@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "2.2",
-    "L": "28.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 2.2,
+    "L": 28.0,
+    "W": 0.0,
     "Title": "Complete degradation mapping of stacked gate-all-around Si nanowire transistors considering both intrinsic and extrinsic effects",
     "DOI": "https://ieeexplore.ieee.org/document/8268343",
     "Records": [

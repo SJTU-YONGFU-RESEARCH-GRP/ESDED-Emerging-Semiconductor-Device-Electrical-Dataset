@@ -1,13 +1,12 @@
 {
     "Type": "Positive",
-    "Node": "2.0",
+    "Node": 2.0,
     "Device": [
-        "GAA",
-        "CFET"
+        "GAA"
     ],
-    "Vds": "nan",
-    "L": "25.0",
-    "W": "nan",
+    "Vds": 0.0,
+    "L": 25.0,
+    "W": 0.0,
     "Title": "Toward high-performance and reliable Ge channel devices for 2 nm node and beyond",
     "DOI": "https://ieeexplore.ieee.org/document/9372007",
     "Records": [

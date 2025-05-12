@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "1.0",
-    "L": "300.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 1.0,
+    "L": 300.0,
+    "W": 0.0,
     "Title": "Effects of Interface Traps and Self-Heating on the Performance of GAA GaN Vertical Nanowire MOSFET",
     "DOI": "https://ieeexplore.ieee.org/document/8964476",
     "Records": [

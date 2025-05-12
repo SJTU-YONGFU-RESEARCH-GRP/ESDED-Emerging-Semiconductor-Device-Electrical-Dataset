@@ -1,10 +1,12 @@
 {
     "Type": "Both",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "1.0",
-    "L": "50.0",
-    "W": "8.0",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 1.0,
+    "L": 50.0,
+    "W": 8.0,
     "Title": "First demonstration of ultrafast laser annealed monolithic 3D gate-all-around CMOS logic and FeFET memory with near-memory-computing macro",
     "DOI": "https://ieeexplore.ieee.org/document/9371892",
     "Records": [

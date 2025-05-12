@@ -1,10 +1,12 @@
 {
     "Type": "Both",
-    "Node": "10.0",
-    "Device": "GAA",
-    "Vds": "1.0",
-    "L": "160.0",
-    "W": "nan",
+    "Node": 10.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 1.0,
+    "L": 160.0,
+    "W": 0.0,
     "Title": "Impact of Process-Induced Inclined Side-Walls on Gate Leakage Current of Nanowire GAA MOSFETs",
     "DOI": "https://ieeexplore.ieee.org/document/10422767",
     "Records": [

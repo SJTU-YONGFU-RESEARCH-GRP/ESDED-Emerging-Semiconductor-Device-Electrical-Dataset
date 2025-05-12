@@ -1,10 +1,12 @@
 {
     "Type": "Both",
-    "Node": "5.0",
-    "Device": "Nanosheet",
-    "Vds": "2.0",
-    "L": "12.0",
-    "W": "nan",
+    "Node": 5.0,
+    "Device": [
+        "Nanosheet"
+    ],
+    "Vds": 2.0,
+    "L": 12.0,
+    "W": 0.0,
     "Title": "Vertically Stacked Nanosheets Tree-Type Recofigurable Transistor With Improved ON-Current",
     "DOI": "https://ieeexplore.ieee.org/abstract/document/9629261",
     "Records": [

@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "1.0",
-    "L": "nan",
-    "W": "10.0",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 1.0,
+    "L": 0.0,
+    "W": 10.0,
     "Title": "Time Evolution of DIBL in Gate-All-Around Nanowire MOSFETs During Hot-Carrier Stress",
     "DOI": "https://ieeexplore.ieee.org/document/9424168",
     "Records": [

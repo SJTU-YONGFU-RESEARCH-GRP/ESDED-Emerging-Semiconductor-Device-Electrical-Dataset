@@ -1,10 +1,12 @@
 {
     "Type": "Both",
-    "Node": "5.0",
-    "Device": "GAA",
-    "Vds": "0.6",
-    "L": "14.0",
-    "W": "nan",
+    "Node": 5.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.6,
+    "L": 14.0,
+    "W": 0.0,
     "Title": "A Comprehensive Benchmark and Optimization of 5-nm Lateral and Vertical GAA 6T-SRAMs",
     "DOI": "https://ieeexplore.ieee.org/document/7358115",
     "Records": [

@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "nan",
-    "L": "1500.0",
-    "W": "500.0",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.0,
+    "L": 1500.0,
+    "W": 500.0,
     "Title": "Novel Gate-All-Around High-Voltage Thin-Film Transistor With T-Shaped Metal Field Plate Design",
     "DOI": "https://ieeexplore.ieee.org/document/7031875",
     "Records": [

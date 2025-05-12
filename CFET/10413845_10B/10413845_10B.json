@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "7.0",
-    "Device": "CFET",
-    "Vds": "nan",
-    "L": "10000.0",
-    "W": "10000.0",
+    "Node": 7.0,
+    "Device": [
+        "CFET"
+    ],
+    "Vds": 0.0,
+    "L": 10000.0,
+    "W": 10000.0,
     "Title": "Role of Inter-Layer Dielectric on the Electrical and Heat Dissipation Characteristics in the Heterogeneous 3D Sequential CFETs with Ge p-FETs on Si n-FETs",
     "DOI": "https://ieeexplore.ieee.org/document/10413845",
     "Records": [

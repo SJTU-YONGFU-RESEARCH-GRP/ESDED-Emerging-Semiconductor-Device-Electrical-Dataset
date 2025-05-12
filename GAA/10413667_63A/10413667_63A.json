@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "1.0",
-    "L": "nan",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 1.0,
+    "L": 0.0,
+    "W": 0.0,
     "Title": "High-Performance Gate-all-around Junctionless Vertical Channel Transistors with the Ultra-low Sub-threshold Swing for Next-generation 4F2 DRAM",
     "DOI": "https://ieeexplore.ieee.org/document/10413667",
     "Records": [

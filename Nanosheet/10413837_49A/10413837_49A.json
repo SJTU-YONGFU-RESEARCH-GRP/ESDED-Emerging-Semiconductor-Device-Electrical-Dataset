@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "Nanosheet",
-    "Vds": "1.0",
-    "L": "nan",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "Nanosheet"
+    ],
+    "Vds": 1.0,
+    "L": 0.0,
+    "W": 0.0,
     "Title": "Monolayer-MoS2 Stacked Nanosheet Channel with C-type Metal Contact",
     "DOI": "https://ieeexplore.ieee.org/document/10413837",
     "Records": [

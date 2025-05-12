@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "nan",
-    "L": "150.0",
-    "W": "18.0",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.0,
+    "L": 150.0,
+    "W": 18.0,
     "Title": "Joule Heating to Enhance the Performance of a Gate-All-Around Silicon Nanowire Transistor",
     "DOI": "https://ieeexplore.ieee.org/document/7458209",
     "Records": [

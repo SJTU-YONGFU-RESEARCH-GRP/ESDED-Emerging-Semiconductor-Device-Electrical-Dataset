@@ -1,11 +1,13 @@
 {
     "Type": "Positive",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "-0.05",
-    "L": "200.0",
-    "W": "50.0",
-    "Title": "irst Demonstration of Defect Elimination for Cryogenic Ge FinFET CMOS Inverter Showing Steep Subthreshold Slope by Using Ge-on-Insulator Structure",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": -0.05,
+    "L": 200.0,
+    "W": 50.0,
+    "Title": "First Demonstration of Defect Elimination for Cryogenic Ge FinFET CMOS Inverter Showing Steep Subthreshold Slope by Using Ge-on-Insulator Structure",
     "DOI": "https://ieeexplore.ieee.org/document/10413801",
     "Records": [
         {

@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "0.05",
-    "L": "nan",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.05,
+    "L": 0.0,
+    "W": 0.0,
     "Title": "An Accurate Drain Current Model of Multichannel Cylindrical High-K HfO2-/Si3N4-Based GAA-MOSFET for SRAM Application",
     "DOI": "https://ieeexplore.ieee.org/document/10304090",
     "Records": [

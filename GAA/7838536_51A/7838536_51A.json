@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "1.0",
-    "L": "60.0",
-    "W": "7.0",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 1.0,
+    "L": 60.0,
+    "W": 7.0,
     "Title": "High performance Ge junctionless gate-all-around NFETs with simultaneous Ion =1235 ?A/?m at Vov=Vds=1V, SS=95 mV/dec, high Ion/Ioff=2\u00d7106, and reduced noise power density using S/D dopant recovery by selective laser annealing",
     "DOI": "https://ieeexplore.ieee.org/document/7838536",
     "Records": [

@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "nan",
-    "L": "50.0",
-    "W": "7.0",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.0,
+    "L": 50.0,
+    "W": 7.0,
     "Title": "Electrical Characteristics of In0.53Ga0.47As Gate-All-Around MOSFETs With Different Nanowire Shapes",
     "DOI": "https://ieeexplore.ieee.org/document/9796143",
     "Records": [

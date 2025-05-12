@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "Nanosheet",
-    "Vds": "0.05",
-    "L": "135.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "Nanosheet"
+    ],
+    "Vds": 0.05,
+    "L": 135.0,
+    "W": 0.0,
     "Title": "Comprehensive Physics Based TCAD Model for 2D MX2 Channel Transistors",
     "DOI": "https://ieeexplore.ieee.org/document/10019446",
     "Records": [

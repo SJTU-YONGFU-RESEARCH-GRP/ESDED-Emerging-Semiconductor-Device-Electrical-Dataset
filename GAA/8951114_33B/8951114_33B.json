@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "1.0",
-    "L": "500.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 1.0,
+    "L": 500.0,
+    "W": 0.0,
     "Title": "Effect of Seed Layer on Gate-All-Around Poly-Si Nanowire Negative-Capacitance FETs With MFMIS and MFIS Structures: Planar Capacitors to 3-D FETs",
     "DOI": "https://ieeexplore.ieee.org/abstract/document/8951114",
     "Records": [

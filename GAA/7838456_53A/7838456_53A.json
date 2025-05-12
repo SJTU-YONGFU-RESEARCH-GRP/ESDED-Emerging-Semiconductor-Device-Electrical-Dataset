@@ -1,10 +1,12 @@
 {
     "Type": "Both",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "nan",
-    "L": "30.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.0,
+    "L": 30.0,
+    "W": 0.0,
     "Title": "Vertically Stacked Gate-All-Around Si Nanowire CMOS Transistors with Dual Work Function Metal Gates",
     "DOI": "https://ieeexplore.ieee.org/document/7838456",
     "Records": [

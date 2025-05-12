@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "Nanosheet",
-    "Vds": "nan",
-    "L": "590.0",
-    "W": "nan",
+    "Node": 0.0,
+    "Device": [
+        "Nanosheet"
+    ],
+    "Vds": 0.0,
+    "L": 590.0,
+    "W": 0.0,
     "Title": "Exploring manufacturability of novel 2D channel materials: 300 mm wafer-scale 2D NMOS & PMOS using MoS2, WS2, & WSe2",
     "DOI": "https://ieeexplore.ieee.org/document/10413874",
     "Records": [

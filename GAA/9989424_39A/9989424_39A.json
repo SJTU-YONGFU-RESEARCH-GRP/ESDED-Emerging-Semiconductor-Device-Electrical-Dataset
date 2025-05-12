@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "5.0",
-    "Device": "GAA",
-    "Vds": "nan",
-    "L": "35.0",
-    "W": "nan",
+    "Node": 5.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.0,
+    "L": 35.0,
+    "W": 0.0,
     "Title": "Enhancement of Thermal Characteristics and On-Current in GAA MOSFET by Utilizing Al2O3-Based Dual-? Spacer Structure",
     "DOI": "https://ieeexplore.ieee.org/document/9989424",
     "Records": [

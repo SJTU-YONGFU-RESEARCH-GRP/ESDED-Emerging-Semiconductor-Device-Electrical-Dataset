@@ -1,10 +1,12 @@
 {
     "Type": "Negative",
-    "Node": "nan",
-    "Device": "GAA",
-    "Vds": "nan",
-    "L": "12000.0",
-    "W": "9000.0",
+    "Node": 0.0,
+    "Device": [
+        "GAA"
+    ],
+    "Vds": 0.0,
+    "L": 12000.0,
+    "W": 9000.0,
     "Title": "A Quantum Corrected Compact Model of Experimentally Fabricated GAA 2-D MBCFETs",
     "DOI": "https://ieeexplore.ieee.org/document/10036363",
     "Records": [
