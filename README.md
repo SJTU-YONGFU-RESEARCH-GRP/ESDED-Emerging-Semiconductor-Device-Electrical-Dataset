@@ -20,7 +20,7 @@ Each device folder contains multiple subdirectories, where each subdirectory rep
 
 ## Data Structure
 
-Each file includes metadata such as PDK name, device name, simulator, and model. The `Record` section is a list, in which each entry includes the `Vgs` and the corresponding `Ids` under different dimensions (i.e., `W`, `L`), simulation conditions (i.e., `Temp` and `Corner`), and voltage bias (`Vds`).
+Each file includes metadata such as type of transistor, technology node, device name, and paper information. The `Record` section is a list, in which each entry includes the `Vgs` and the corresponding `Ids` under different dimensions (i.e., `W`, `L`), simulation conditions (i.e., `Temp` and `Corner`), and voltage bias (`Vds`).
 
 | Name       | Description                                | Type             |
 |------------|--------------------------------------------|------------------|
