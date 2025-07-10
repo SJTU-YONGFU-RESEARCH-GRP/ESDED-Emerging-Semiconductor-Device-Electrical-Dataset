@@ -150,7 +150,15 @@ This dataset is ideal for:
 
 This dataset is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
+## 📚 Citation
 
+If you use ESDED in your research, please cite the original papers from which the data was collected, and the dataset itself:
+
+```
+Feiyang Shen, Ruoyu Tang, Qing Zhang, Chao Wang, Yuhang Zhang, Kain Lu Low, Yongfu Li, 
+"ESDED - Emerging Semiconductor Device Electrical Dataset", 
+IEEE Data Description, May, 2025, doi:10.21227/e4zb-x710
+```
 
 Full citation information is included in each device's JSON file.
 
